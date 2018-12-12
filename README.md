@@ -1,4 +1,4 @@
-# nikmodule
+# the nothing module
 
 This is a module that does nothing.
 
@@ -9,9 +9,3 @@ module "nothing" {
   source = "github.com/kikitux/nothing-module"
 }
 ```
-
-
-## todo
-- module
-- this readme
-- how to use it
