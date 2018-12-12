@@ -1,3 +1,3 @@
 module "nothing" {
-  source = "../"
+  source = "github.com/kikitux/nothing-module"
 }
