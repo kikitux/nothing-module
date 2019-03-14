@@ -1,2 +1,5 @@
 .terraform/
 terraform.tfstate*
+example/.kitchen/
+example/.ruby-version
+example/Gemfile.lock
