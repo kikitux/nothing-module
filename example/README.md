@@ -2,7 +2,7 @@
 
 ## Pre-requirements
 
-Install `terraform` and `ruby` with `bundler`
+Install `terraform` and `ruby`
 
 Then run:
 
