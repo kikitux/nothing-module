@@ -20,7 +20,7 @@ Then run:
 
 ```
 gem install --user-install bundle
-bundle install
+bundle install --path vendor/bundle
 ```
 
 ### How to test
