@@ -19,7 +19,7 @@ Install `terraform` and `ruby`
 Then run:
 
 ```
-gem install bundler
+gem install --user-install bundle
 bundle install
 ```
 
